@@ -35,3 +35,8 @@ img{
   height: 250px;
   border-radius: 1rem;
 }
+
+
+button{
+  border: 0.1rem solid white;
+}
