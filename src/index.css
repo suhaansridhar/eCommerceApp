@@ -6,3 +6,32 @@
   color: white;
 }
 
+.items--card--generator{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+.item--card{
+  border: 0.1rem solid white;
+  padding: 1rem;
+  margin: 10px;
+  border-radius: 1rem;
+}
+
+.item--card button{
+  border: 0.1rem solid white;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  color: green;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+  border-radius: 1rem;
+}
